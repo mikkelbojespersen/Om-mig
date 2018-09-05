@@ -1,0 +1,12 @@
+.txtFed {font-weight: bold}
+
+.billede {
+    width: 40%;
+    
+    float: right;
+}
+
+.bagggrnud {background-color: blue;
+margin left: auto;
+margin right: auto;
+}
